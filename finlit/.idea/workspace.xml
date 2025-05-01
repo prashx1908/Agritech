@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="413aa2b2-401d-4c47-b53e-a551f13f996d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SIMUL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/finlit/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/finlit/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/finlit/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/finlit/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/model_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/model_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/static/css/styles1.css" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/static/css/styles1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/templates/chatbot.html" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/templates/chatbot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/templates/community/community_feed.html" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/templates/community/community_feed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/templates/community_feed.html" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/templates/community_feed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/templates/expenditure_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/templates/expenditure_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/templates/financial_resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/templates/financial_resources.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/templates/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/templates/homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/templates/literacy_games.html" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/templates/literacy_games.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/templates/ml_predict.html" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/templates/ml_predict.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/templates/ml_result.html" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/templates/ml_result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/templates/results.html" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/templates/results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/homepage/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/finlit/homepage/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/investment_model.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/model.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finlit/preprocessor (1).pkl" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/finlit" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;prashx1908&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/prashx1908/FinLit_Entropy.git&quot;,
+    &quot;accountId&quot;: &quot;6010b987-e3b0-40be-82f5-664f9e4e5aa2&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2kHr73QrP3Mf7g3b2XBp7LQCkSx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/prashanth/Desktop/entropy/finlit/finlit/homepage/templates/finance_assistant&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/finlit/homepage/templates/finance_assistant" />
+      <recent name="$PROJECT_DIR$/finlit/homepage/static/images" />
+      <recent name="$PROJECT_DIR$/finlit" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/finlit/homepage/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/finlit/homepage/templates" />
+      <recent name="$PROJECT_DIR$/finlit" />
+      <recent name="$PROJECT_DIR$/finlit/homepage" />
+      <recent name="$PROJECT_DIR$/finlit/homepage/static" />
+      <recent name="$PROJECT_DIR$/finlit/homepage/static/homepage" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SIMUL" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="413aa2b2-401d-4c47-b53e-a551f13f996d" name="Changes" comment="" />
+      <created>1722951172590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722951172590</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
